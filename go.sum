@@ -2,3 +2,5 @@ github.com/rendyuwu/go-say-hello v1.0.0 h1:QXEnsIge0lThtciSt2roROCsVQWi2Vo9HwZ83
 github.com/rendyuwu/go-say-hello v1.0.0/go.mod h1:92zl22/28fFe7QNk9jbLBFR04byn1Uqf6hAFtV5mCfQ=
 github.com/rendyuwu/go-say-hello v1.5.0 h1:fhIB/UzwqVvpUMFKDp3/qw3A0zcirxpv04C/clGXRaM=
 github.com/rendyuwu/go-say-hello v1.5.0/go.mod h1:92zl22/28fFe7QNk9jbLBFR04byn1Uqf6hAFtV5mCfQ=
+github.com/rendyuwu/go-say-hello/v2 v2.0.0 h1:PO1dBxw/15bWKx1va7hkmRk+8VnPnkPNa9TQrBtwiMo=
+github.com/rendyuwu/go-say-hello/v2 v2.0.0/go.mod h1:ArB8MPPu+DWvgpOyzurnBvj9aE+5Z3oxmz26VM5GXh0=
